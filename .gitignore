@@ -1,0 +1,9 @@
+# Your live data — NEVER publish these (they contain your store contents)
+db.sqlite3
+media/
+
+# Generated stuff
+__pycache__/
+*.pyc
+staticfiles/
+.env*
